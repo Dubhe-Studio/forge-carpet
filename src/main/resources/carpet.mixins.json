@@ -3,7 +3,7 @@
   "minVersion": "0.8",
   "package": "net.cjsah.mod.carpet.mixins",
   "compatibilityLevel": "JAVA_17",
-  "refmap": "mixins.refmap.json",
+  "refmap": "carpet.refmap.json",
   "mixins": [
     "BarrierBlock_updateSuppressionBlockMixin",
     "SpawnState_scarpetMixin",
@@ -134,7 +134,6 @@
     "DefaultDispenseItemBehavior_extremeBehavioursMixin",
     "Containers_extremeMixin",
     "FishingHook_extremeMixin",
-    "SkeletonTrapGoal_extremeMixin",
     "FireworkRocketEntity_extremeMixin",
     "Blaze_extremeMixin",
     "BlazeAttackGoal_extremeMixin",
